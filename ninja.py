@@ -4,10 +4,10 @@ import random
 proxies = { 
 	'http': 'http://45.79.90.143:44554', 
 	'http': 'http://45.79.142.211:3128', 
-    'http': 'http://47.74.136.452:2246',
-    'https': 'https://45.79.90.143:44554', 
+    	'http': 'http://47.74.136.452:2246',
+    	'https': 'https://45.79.90.143:44554', 
 	'https': 'https://45.79.142.211:3128', 
-    'https': 'https://47.74.136.452:2246',
+    	'https': 'https://47.74.136.452:2246',
 } 
 user_agents = [ 
 	'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 
